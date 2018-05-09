@@ -1,0 +1,4 @@
+name: FortmineBattleRoyale
+version: ${project.version}
+main: com.scarabcoder.fbr.FortmineBattleRoyalePlugin
+authors: [Nicholas Harris]
